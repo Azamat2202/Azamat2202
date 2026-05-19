@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет! Я Азамат, основатель BotifyPro 🚀
 
-<!--
-**Azamat2202/Azamat2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я помогаю бизнесу зарабатывать больше и работать быстрее с помощью искусственного интеллекта.
 
-Here are some ideas to get you started:
+### ЧЕМ Я МОГУ БЫТЬ ВАМ ПОЛЕЗЕН:
+- 🌐 **Создание сайтов нового поколения:** Быстрые, современные лендинги и многостраничные сайты через AI-инструменты (Bolt.new, Next.js, React).
+- 🤖 **Разработка чат-ботов:** Умные боты для Telegram/WhatsApp, которые продают, консультируют и разгружают вашу техподдержку 24/7.
+- ⚙️ **Автоматизация бизнеса:** Настройка нейросетей для автоматизации рутины, интеграция AI-чат-ботов в CRM-системы компаний.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### МОИ ИНСТРУМЕНТЫ:
+Bolt.new | GitHub | Netlify | Supabase | OpenAI / Claude AI
+
+---
+📩 **Связаться со мной:** [Написать в Telegram](https://t.me/botifyprokz)
