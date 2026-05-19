@@ -8,7 +8,7 @@
 - ⚙️ **Автоматизация бизнеса:** Настройка нейросетей для автоматизации рутины, интеграция AI-чат-ботов в CRM-системы компаний.
 
 ### МОИ ИНСТРУМЕНТЫ:
-Bolt.new | GitHub | Netlify | Supabase | OpenAI / Claude AI
+Bolt.new | GitHub | Netlify | Supabase | OpenAI | n8n / Claude AI
 
 ---
 📩 **Связаться со мной:** [Написать в Telegram](https://t.me/botifyprokz)
